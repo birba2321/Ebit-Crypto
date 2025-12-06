@@ -1,0 +1,14 @@
+ebit-crypto/
+├── README.md
+├── whitepaper.md
+├── LICENSE
+├── .gitignore
+├── wallet-app/
+│   ├── android/
+│   └── ios/
+├── smart-contracts/
+│   ├── staking.sol
+│   └── governance.sol
+├── docs/
+│   ├── install-guide.md
+│   └── mining-guide.md
